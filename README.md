@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomoe-project
-- 👀 I’m interested in Java, Spring, Phython a little bit
+- 👀 I’m interested in Java, Spring, VBA, Phython a little bit
 - 🌱 I’m currently learning PowerBuilder(Can you believe it??? that old-fashioned language is still alive and I have to learn for my pj)
 - 💞️ I’m looking to collaborate on ? idk;
 - 📫 How to reach me: idk;
